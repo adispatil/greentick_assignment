@@ -20,6 +20,10 @@ Flutter Assignment by GreenTick Technologies
 1. Roboto-Regular
 
 
+#### Video Demo
+Please click on below link to see the video demo <br>
+[Link](https://drive.google.com/file/d/1nfqYDHtQTAOXm7rUvVJPn8HB2l3L-PSb/view?usp=sharing)
+
 #### Screenshots
 <p float="left">
   <img width="349" alt="Screenshot 2022-02-18 at 6 59 52 PM" src="https://user-images.githubusercontent.com/34621423/154692039-e2b803f9-037f-4a2f-bffd-3554131a21d0.png" width="300" height="650" hspace="20">

@@ -22,8 +22,9 @@ Flutter Assignment by GreenTick Technologies
 
 #### Screenshots
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/34621423/117530805-c5cb8180-affc-11eb-8fa8-539440d44ace.png" width="300" height="650" hspace="20"/>
-  <img src="https://user-images.githubusercontent.com/34621423/117530809-cb28cc00-affc-11eb-9734-f805307e63db.png" width="300" height="650" hspace="20" /> 
+  <img width="349" alt="Screenshot 2022-02-18 at 6 59 52 PM" src="https://user-images.githubusercontent.com/34621423/154692039-e2b803f9-037f-4a2f-bffd-3554131a21d0.png" width="300" height="650" hspace="20">
+  <img width="354" alt="Screenshot 2022-02-18 at 6 58 35 PM" src="https://user-images.githubusercontent.com/34621423/154692045-91e3fe57-0d2f-4580-944a-6a9607b7abc7.png" width="300" height="650" hspace="20">
+  <img width="358" alt="Screenshot 2022-02-18 at 7 00 44 PM" src="https://user-images.githubusercontent.com/34621423/154692011-8ed9986e-9c11-4316-bfa6-c2088e442d0f.png" width="300" height="650" hspace="20">
 </p>
 
 ## GreentTick

@@ -21,7 +21,10 @@ Flutter Assignment by GreenTick Technologies
 
 
 #### Screenshots
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/34621423/117530805-c5cb8180-affc-11eb-8fa8-539440d44ace.png" width="300" height="650" hspace="20"/>
+  <img src="https://user-images.githubusercontent.com/34621423/117530809-cb28cc00-affc-11eb-9734-f805307e63db.png" width="300" height="650" hspace="20" /> 
+</p>
 
 ## GreentTick
 

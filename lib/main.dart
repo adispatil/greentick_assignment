@@ -39,8 +39,8 @@ class MyApp extends StatelessWidget {
           page: () => const DashboardScreen(),
         ),
         GetPage(
-          name: kRouteSplashScreen,
-          page: () => const StoreListScreen(),
+          name: kRouteStoreListScreen,
+          page: () => StoreListScreen(),
         ),
       ],
     );

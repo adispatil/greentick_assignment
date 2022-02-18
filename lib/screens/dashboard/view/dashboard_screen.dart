@@ -19,7 +19,7 @@ class DashboardScreen extends GetView<DashboardController> {
         ),
       ),
       body: SafeArea(
-        child: Container(
+        child: SizedBox(
           width: Get.width,
           height: Get.height,
           child: Column(
@@ -50,7 +50,7 @@ class DashboardScreen extends GetView<DashboardController> {
                     const Spacer(),
                     InkWell(
                       onTap: () {
-                        Get.toNamed(kRouteStoreListScreen);
+                        Get.toNamed(kRouteStoreListScreen, arguments: [controller.storeList]);
                       },
                       child: const Text(
                         'View all',
@@ -63,14 +63,14 @@ class DashboardScreen extends GetView<DashboardController> {
               const SizedBox(
                 height: 10.0,
               ),
-              Container(
+              SizedBox(
                 height: Get.width * 0.6,
                 child: ListView.builder(
                     scrollDirection: Axis.horizontal,
                     itemCount: controller.storeList.length,
                     itemBuilder: (context, index) {
                       var item = controller.storeList[index];
-                      return Container(
+                      return SizedBox(
                         width: Get.width * 0.7,
                         child: Padding(
                           padding: const EdgeInsets.only(left: 16),
@@ -157,7 +157,7 @@ class DashboardScreen extends GetView<DashboardController> {
                                           itemBuilder: (context, index) =>
                                           const Icon(
                                             Icons.star,
-                                            color: Colors.amber,
+                                            color: Color(0xFF047632),
                                           ),
                                           itemCount: 5,
                                           itemSize: 15.0,

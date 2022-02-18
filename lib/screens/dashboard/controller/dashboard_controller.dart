@@ -19,6 +19,9 @@ class DashboardController extends GetxController {
       'https://2hrmp9bzmmx3f0xil1wyssgx-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/levis-nextgen-stores-interview-01-800x533.jpg',
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/american-clothing-and-accessories-retailer-american-eagle-news-photo-1600305047.jpg',
       'https://www.focusmall.in/wp-content/uploads/2022/01/slider02.jpg',
+      'https://thumbs.dreamstime.com/b/new-jersey-usa-january-dkny-clothes-store-shopping-center-brand-sign-enter-image-dkny-clothes-store-shopping-center-136173269.jpg'
+      'https://mcoshopdine.com/wp-content/uploads/2016/07/MCOTerminalAMango.jpg',
+      'https://i0.wp.com/patnayellowpages.com/wp-content/uploads/2020/06/Aurelia-Showroom-Patna.jpg',
     ];
 
     storeList.add(
@@ -28,7 +31,7 @@ class DashboardController extends GetxController {
         rating: 3.0,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Mexico City',
-        storeImage: imageArray[Random().nextInt(imageArray.length)],
+        storeImage: imageArray[0],
       ),
     );
 
@@ -39,7 +42,7 @@ class DashboardController extends GetxController {
         rating: 2.5,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Amsterdam, Netherlands',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[1],
       ),
     );
 
@@ -50,7 +53,7 @@ class DashboardController extends GetxController {
         rating: 4.2,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[2],
       ),
     );
 
@@ -61,7 +64,7 @@ class DashboardController extends GetxController {
         rating: 2.9,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[3],
       ),
     );
 
@@ -72,7 +75,7 @@ class DashboardController extends GetxController {
         rating: 1.0,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[4],
       ),
     );
 
@@ -83,7 +86,7 @@ class DashboardController extends GetxController {
         rating: 2.7,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[5],
       ),
     );
 
@@ -94,7 +97,7 @@ class DashboardController extends GetxController {
         rating: 4.5,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[6],
       ),
     );
 
@@ -105,7 +108,7 @@ class DashboardController extends GetxController {
         rating: 3.5,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[1],
       ),
     );
 
@@ -116,7 +119,7 @@ class DashboardController extends GetxController {
         rating: 3.8,
         likeCount: formatLikeCount(Random().nextInt(9999999) + 100),
         storeLocation: 'Denver, United States',
-        storeImage: (imageArray..shuffle()).first,
+        storeImage: imageArray[3],
       ),
     );
 

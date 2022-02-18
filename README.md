@@ -1,4 +1,4 @@
-# GreenTick Asignment
+# GreenTick Assignment
 
 Flutter Assignment by GreenTick Technologies
 

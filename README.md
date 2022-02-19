@@ -22,7 +22,7 @@ Flutter Assignment by GreenTick Technologies
 
 #### Video Demo
 Please click on below link to see the video demo <br>
-[Link](https://drive.google.com/file/d/1nfqYDHtQTAOXm7rUvVJPn8HB2l3L-PSb/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1nfqYDHtQTAOXm7rUvVJPn8HB2l3L-PSb/view?usp=sharing)
 
 #### Screenshots
 <p float="left">

@@ -1,6 +1,7 @@
 # GreenTick Assignment
 
 Flutter Assignment by GreenTick Technologies
+https://greentick.tech
 
 #### Considered below points while developing <br>
 1. Splash Screen
@@ -31,6 +32,9 @@ Please click on below link to see the video demo <br>
   <img width="358" alt="Screenshot 2022-02-18 at 7 00 44 PM" src="https://user-images.githubusercontent.com/34621423/154692011-8ed9986e-9c11-4316-bfa6-c2088e442d0f.png" width="300" height="650" hspace="20">
 </p>
 
+
+
+Unfortunately i didn't get any feedback from employer after chasing 3-4 times on email as well as on phone call. Might be this is their regular business.
 ## GreentTick
 
 
